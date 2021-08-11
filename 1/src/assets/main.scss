@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: 100vh;
+  background-color: #1a1d24;
+}
+
+.container {
+  padding: 0 20px;
+}
+.btn {
+  font-style: 18px;
+  line-height: 1.5;
+  text-transform: uppercase;
+  cursor: pointer;
+  font-weight: 700;
+  outline: transparent;
+  border: none;
+}
